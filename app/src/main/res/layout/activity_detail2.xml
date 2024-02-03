@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="700dp">
+
+        <ImageView
+            android:id="@+id/back_button_detail"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:padding="14dp"
+            android:layout_marginTop="5sp"
+            android:src="@drawable/back_black"
+            android:contentDescription="@string/back"/>
+
+        <TextView
+            android:id="@+id/tv_item_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            tools:text="@string/player_name" />
+
+        <ImageView
+            android:id="@+id/img_item_photo"
+            android:layout_width="140dp"
+            android:layout_height="210dp"
+            android:layout_marginTop="80sp"
+            android:layout_marginLeft="20sp"
+            android:contentDescription="@string/player_name"
+            android:scaleType="centerCrop"
+            tools:src="@tools:sample/avatars" />
+
+        <TextView
+            android:id="@+id/tv_item_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:layout_marginTop="350sp"
+            android:layout_marginLeft="20sp"
+            android:layout_marginRight="5sp"
+            android:layout_marginBottom="50sp"
+            tools:text="@string/description" />
+
+
+        <TextView
+            android:text="@string/fullname"
+            android:id="@+id/tv_fullname"
+            android:layout_width="210dp"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:layout_marginTop="80sp"
+            android:layout_marginLeft="170sp"/>
+
+        <TextView
+            android:text="@string/borndate"
+            android:id="@+id/tv_borndate"
+            android:layout_width="210dp"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:layout_marginTop="140sp"
+            android:layout_marginLeft="170sp" />
+
+        <TextView
+            android:text="@string/bornplace"
+            android:id="@+id/tv_bornplace"
+            android:layout_width="210dp"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:layout_marginTop="190sp"
+            android:layout_marginLeft="170sp" />
+
+        <TextView
+            android:text="@string/heightweight"
+            android:id="@+id/tv_heightweight"
+            android:layout_width="210dp"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:layout_marginTop="240sp"
+            android:layout_marginLeft="170sp" />
+
+        <TextView
+            android:text="@string/club"
+            android:id="@+id/tv_club"
+            android:layout_width="210dp"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:layout_marginTop="285sp"
+            android:layout_marginLeft="170sp" />
+
+        <TextView
+            android:text="@string/position"
+            android:id="@+id/tv_position"
+            android:layout_width="210dp"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:layout_marginTop="320sp"
+            android:layout_marginLeft="170sp" />
+
+    </RelativeLayout>
+
+</ScrollView>

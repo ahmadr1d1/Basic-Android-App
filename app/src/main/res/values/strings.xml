@@ -1,0 +1,418 @@
+<resources>
+    <string name="app_name">TimnasSepakBola</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+
+    <!-- TODO: activity_main -->
+    <string name="title_main">Timnas Sepak Bola Senior</string>
+
+
+    <!-- TODO: activity_settings -->
+    <string name="title_settings">Settings</string>
+    <string name="security">Security &amp; Privacy</string>
+    <string name="textSize">Text Size</string>
+    <string name="language">Language</string>
+    <string name="sendMessage">Send us a message</string>
+    <string name="aboutUs">About Us</string>
+    <string name="faqs">FAQs</string>
+
+
+    <!-- TODO: activity_about -->
+    <string name="title_about">About Me</string>
+    <string name="nama">Ahmad Rohmin Dahuri</string>
+    <string name="email">ahmaddahuri212@gmail.com</string>
+
+
+    <!-- TODO: activity_detail -->
+    <string name="fullname">Nama Lengkap      :   </string>
+    <string name="borndate">Tanggal Lahir     :  </string>
+    <string name="bornplace">Tempat Lahir     :  </string>
+    <string name="heightweight">Tinggi / Berat:  </string>
+    <string name="club">Klub                  :  </string>
+    <string name="position">Posisi            :  </string>
+    <string name="back">Back Button</string>
+
+
+    <!--  TODO: List  -->
+    <string name="player_name">Nama Pemain</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <!--   official     -->
+        <item>Shin Tae-Yong</item>
+        <item>Nova Arianto</item>
+        <item>Seo Jeong-Seok</item>
+
+        <!--   penjaga gawang     -->
+        <item>Nadeo Arga Winata</item>
+        <item>Muhammad Riyandi</item>
+        <item>Ernando Ari Sutaryadi</item>
+
+        <!--   pemain_belakang     -->
+        <item>Pratama Arhan</item>
+        <item>Asnawi Mangkualam</item>
+        <item>Edo Febriansyah</item>
+        <item>Elkan Baggott</item>
+        <item>Jordi Amat</item>
+        <item>Rizky Ridho Ramadhani</item>
+        <item>Sandy Walsh</item>
+        <item>Shayne Pattynama</item>
+        <item>Wahyu Prasetyo</item>
+
+        <!--   pemain tengah     -->
+        <item>Adam Alis</item>
+        <item>Yakob Sayuri</item>
+        <item>Arkhan Fikri</item>
+        <item>Egy Maulana Vikri</item>
+        <item>Marc Klok</item>
+        <item>Rachmat Irianto</item>
+        <item>Ricky Kambuaya</item>
+        <item>Saddil Ramdani</item>
+        <item>Witan Sulaeman</item>
+        <item>Marselino Ferdinan</item>
+
+        <!--   pemain depan     -->
+        <item>Dendy Sulistyawan</item>
+        <item>Dimas Drajad</item>
+        <item>Hokky Caraka</item>
+        <item>Rafael Struick</item>
+        <item>Ramadhan Sananta</item>
+    </string-array>
+
+
+    <string-array name="data_description">
+        <item>Shin Tae-yong (bahasa Korea: 신태용, Hanja: 申台龍; lahir 11 April 1970) adalah mantan pemain sepak bola berkebangsaan Korea Selatan yang kini menjadi pelatih tim nasional Indonesia. Sebelumya Coach Shin pernah menjadi Pelatih Korea Selatan pada Piala Dunia 2018. Dia merupakan orang pertama yang memenangkan Kejuaraan Klub Asia / Liga Champions AFC sebagai pemain dan pelatih, ia memenangkan Kejuaraan Klub Asia 1995 dan Liga Champions AFC 2010 bersama Seongnam Ilhwa Chunma. Setelah lulus dari Yeungnam University, Shin menghabiskan selama 12 musim bermain bersama Ilhwa Chunma. Dia memenangkan K-League Young Player of the Year Award di tahun 1992, di tahun pertama karirnya sebagai pemain profesional. Dia pernah menjadi pemain kunci untuk Ilhwa Chunma ketika mereka memenangkan K-League tiga tahun berturut-turut, yakni dari tahun 1993 hingga 1995. Khususnya di tahun 1995, dia menjadi MVP K-League, selain itu ia juga memenangkan Asian Club Championship pada akhir tahun.Setelah itu, Ilhwa Chunma tersendat untuk beberapa waktu, tetapi mereka sukses dalam menaklukkan pertandingan kembali dibawah kontribusi Shin Tae-yong. Mereka berhasil menjuarai liga untuk tiga tahun berturut-turut dari tahun 2001-2003, dan Shin Tae-yong juga memenangkan MVP Award keduanya di tahun 2001. Dia berhasil mencetak 99 gol dan 68 assist di 401 pertandingan K-League, maupun Piala Liga. Dia bisa saja menjadi one-club man, tetapi ia memilih pergi ke Australia untuk membela Queensland Roar di A-League. Dia dianggap sebagai salah satu pemain K-League terbaik sepanjang masa, dan dipilih untuk K-League 30th Anniversary Best XI di tahun 2013.Ia kemudian pensiun pada tahun 2005 karena memiliki masalah dengan pergelangan kaki. Dia menerima peran sebagai asisten pelatih di klub terakhirnya, untuk menjadi asisten Miron Bleiberg terutama dengan kemampuan tekniknya. Dia menorehkan 23 penampilan di pertandingan internasional, termasuk di ajang Piala Asia AFC 1996 untuk tim nasional Korea Selatan. Pada tanggal 28 Desember 2019, Persatuan Sepak Bola Seluruh Indonesia (PSSI) mengkonfirmasi penunjukan Shin sebagai pelatih anyar Indonesia, menggantikan Simon McMenemy. Dia diberi kontrak 4 tahun. Setelah awal yang buruk untuk masa jabatannya di babak kedua kualifikasi Piala Dunia 2022, ia memimpin Indonesia dengan usia pemain yang rata-rata 23,8 tahun ke final Kejuaraan AFF 2020. Pada bulan Juni 2022, ia berhasil membawa Indonesia lolos ke Piala Asia 2023, mengakhiri absen 16 tahun Indonesia dari kompetisi 4 tahunan tersebut, setelah kemenangan 2–1 melawan Kuwait dan kemenangan 7–0 melawan Nepal pada pertandingan terakhir untuk meraih tiket ke putaran final.</item>
+        <item>Nova Arianto adalah pemain sepak bola profesional Indonesia keturunan Tionghoa yang terakhir bermain untuk Pelita Bandung Raya sebagai pemain bertahan. Pria beragama Katolik ini merupakan seorang pemain sepak bola yang lama bermain untuk Persebaya sebelum hijrah ke Persib Bandung. Nova adalah seorang bek yang tangguh dan merupakan seorang bek dengan benteng pertahanan yang kuat untuk ditembus lawan. Dia kerap mencetak gol karena sering ikut maju ke kotak penalti lawan untuk membantu serangan ketika timnya mendapat tendangan pojok. Vava sendiri dijuluki Nova "suster ngesot" Arianto karena jika dia mencetak gol dia merayakannya dengan gaya ngesot–ngesot di lapangan seperti layaknya suster ngesot.Vava adalah anak dari pasangan Sartono Anwar dan Tan Djiet Nio, Sartono Anwar adalah pelatih terkenal yang mengantar PSIS Semarang menjuarai Divisi Utama 1987 dan salah satu pelatih nasional pada 1980–an hingga awal 90-an. Terakhir, Sartono Anwar yang juga pernah melatih UMS Jakarta (Galatama), BPD Jateng (Galatama), Assyabaab Salim Group, Petrokimia Putra, Arseto Solo, Putra Samarinda, Persibo Bojonegoro memimpin Persisam Putra Samarinda.Setelah ISL 2012-2013 berakhir dan tahun akhir dari Nova sebagai pemain sepak bola Profesional, pada bulan November 2013 Nova direkrut menjadi asisten Pelatih Pelita Bandung Raya</item>
+        <item>Jeong Seok Seo, pria asal Korea Selatan, yang biasa disapa Jeje merupakan seorang interpreter Bahasa Korea-Bahasa Indonesia untuk Coach Shin Tae Yong yang merupakan pelatih Timnas Indonesia yang berasal juga dari Korea Selatan. Dilansir Hops.ID dalam kanal YouTube @Sport77Official pada 10 Agustus 2023, dalam podcast Jeong Seok Seo menjelaskan awal mula datang ke Indonesia dan menjadi interpreter Shin Tae Yong.Jeong Seok Seo menjelaskan pertama kali dia datang ke Indonesia pada tahun 2008, ketika remaja SMA kelas satu dan awalnya merasa kesulitan untuk berbahasa Indonesia."Sebenarnya pertama saya datang ke Indonesia memang susah sih, karena belajar bahasa di sekolah kan, maksudnya sama sekali gak ngerti apa-apa sama sekali," ungkap Jeje. "Sebenarnya sebelum itu belajar beberapa bulan, tiga sampai enam bulan ada, tapi ya dengan tiga bulan, 6 bulan belajar, saya pikir bisa tapi ternyata setelah masuk sekolah, saya sadar ini masih kurang dan bahasa baru gitukan ada bahasa gaul, makanya sampai susah dipahami," lanjut Jeje.Jeje pada saat itu bersekolah di SMA swasta lokal, mengalami kesulitan berbahasa Indonesia sehingga dia menggunakan metode mencatat kata-kata baru apa yang didapatkannya ketika bersekolah, kemudian dipelajari kembali setelah pulang ke rumah diperiksa menggunakan kamus setiap harinya.Setelah cukup fasih berbahasa Indonesia, dia menjelaskan sudah lama bekerja dalam dunia terjemahan, ketika kelas dua atau kelas tiga.Awalnya dia menerjemahkan tentang bisnis, kemudian mendapat tawaran menjadi interpreter artis-artis Korea yang datang ke Indonesia.Kemudian, Jeje menjelaskan awal mula bisa mendapatkan pekerjaan menjadi interpreter Coach Shin-taeyong."Dan di situ kan banyak teman juga translator, jadi kita tuh saling kasih kerjaan kalau misalnya saya saya gak bisa, saya lempar ke teman saya nih," jelas Jeje."Nah, waktu itu ada yang lempar saya kerjaan, terus saya tanya, emang translate apa nih, katanya Shin Tae-yeong, akhirnya saya langsung ambil dan saya tahukan Coach Shin siapa, udah saya langsung ambil hari itu juga, disuruh datang saya langsung datang gitu," lanjut Jeje menjelaskan. "Dan di situ sebenarnya freelance cuma tiga hari, dan hari pertama hari kedua pembicaraan tentang kontrak, ketiga itu press conference di Pakansari waktu itu, itu saya yang translatekan tiga hari itu," lanjutnya."Udah di situ, memang ada pembicaraan juga mau transaksi apa yang mana yang baik kira-kira dan Coach Shin udah kenal saya waktu itu kan, maksudnya saya pernah main bola juga dan ya bisa apa ya komunikasinya lancar ya, mungkin waktu itu Coach Shin bilang tunjuk juga ke saya, jadi akhirnya saya menjadi translator di PSSI gitu," tutup Jeong Seok-seo.</item>
+        <item>Nadeo Argawinata merupakan pemain sepak bola profesional Indonesia yang sekarang bermain untuk Borneo FC Samarinda di Liga 1 dan tim nasional Indonesia.Ia pernah bermain di SSB Macan Putih Kota Kediri. Alumnus SMAN 8 Kediri itu terakhir kali jadi pilar utama tim sepak bola Kota Kediri yang tampil di Porprov Banyuwangi 2014. Penampilan ciamiknya di tingkat Jawa Timur membawa Nadeo terpilih sebagai salah satu pilar timnas Indonesia U-19 asuhan Fachri Husaini. Tahun 2016 ia bergabung dengan Borneo FC dalam ajang Indonesia Soccer Championship A 2016. Kemudian pada tahun 2020 ia pindah ke Bali United. Nadeo sebagian besar dikenal karena penampilannya yang luar biasa bersama tim nasional Indonesia U-23 di Pesta Olahraga Asia Tenggara 2019 yang diselenggarakan di Filipina yang saat itu meraih medali perak. Sebelumnya, dia sempat bermain satu pertandingan bersama dengan tim nasional Indonesia U-19 pada tahun 2015. Dia menerima panggilan pertamanya untuk bergabung dengan tim nasional senior pada Mei 2021. Dia mencatatkan caps pertamanya dalam pertandingan persahabatan melawan Oman pada 29 Mei 2021. Pada 25 Desember 2021, Nadeo menghentikan penalti menit ke-90 dari Singapura internasional Faris Ramli dalam penampilan internasional ketujuh bersama timnas senior, bisa dibilang momen paling krusial di laga semifinal Kejuaraan AFF 2020 saat melawan tuan rumah. Skor tetap 2-2, pertandingan berlanjut ke babak tambahan, dimana Indonesia menambah dua gol yang mengantarkan skuad Garuda ke final. Aksi penyelamatan Nadeo menjadi salah satu "klip" yang paling banyak dilihat di Indonesia pada minggu terakhir tahun 2021. Nadeo membantu Indonesia lolos ke Piala Asia AFC 2023. Pada babak kualifikasi, Nadeo menghentikan tendangan penalti dari Yordania. Pada September 2022, dia menjadi bagian dari sebelas pertama dalam pertandingan persahabatan melawan Curaçao yang menghasilkan kemenangan 3-2. Nadeo juga dipanggil untuk Kejuaraan AFF 2022. </item>
+        <item>Muhammad Riyandi merupakan pemain sepak bola Indonesia yang bermain untuk Persis Solo di Liga 1 Indonesia. Meskipun usianya muda, postur Riyandi sendiri sangat meyakinkan sebagai seorang kiper yakni dengan tinggi 183 sentimeter dan bobot 75 kilogram. Riyandi dikontrak untuk memperkuat PS Barito Putera di ajang Indonesia Soccer Championship A 2016. Putra Bogor ini menjadi pemain termuda yang direkrut PS Barito Putera. Debutnya dijalani ketika PS Barito Putera bertandang ke Persib Bandung. Riyandi yang masih berusia 16 tahun dimainkan oleh pelatih Mundari Karya sejak menit awal. Meski gawangnya bobol 2 (dua) kali, tetapi Riyandi berhasil menggagalkan eksekusi pinalti Samsul Arif. Pasca pertandingan tersebut, karena performa apiknya, Riyandi kembali menjadi pilihan utama Mundari Karya, dalam pertandingan menghadapi Persiba Balikpapan. Gawangnya memang kembali kebobolan pada pertandingan itu, tetapi PS Barito Putera berhasil mengalahkan Persiba Balikpapan, 3 - 1. Dan itu menjadi kemenangan perdana Riyandi bersama tim senior PS Barito Putera. </item>
+        <item>Ernando Ari merupakan salah satu pernjaga gawang asal Indonesia yang lahir di Semarang, Jawa Tengah, pada 27 Februari 2002. Dia mengawali karier sepak bolanya bersama PPLP Jateng, sebelum akhirnya bergabung dengan tim muda Persebaya pada 2018. Akan tetapi, Ernando mengikuti program Garuda Select di bawah kepelatihan Dennis Wise pada 2019. Dalam program tersebut, dia ditempa untuk menjadi penjaga gawang tangguh, beberapa klub Inggris sudah dia hadapi ketika dia bergabung dengan Garuda Select. Setelah enam bulan dia mengikuti program Garuda Select, Ernando kembali ke tim muda Persebaya. Dia dipromosikan ke tim senior Persebaya pada 2020 lalu. Dia menjalani debut profesionalnya bersama Persebaya saat tim berjuluk Green Force itu menghadapi Borneo FC, yang mana pada pertandingan tersebut timnya kalah 3–1 atas Borneo. Selama memperkuat tim senior Persebaya, Ernando Ari telah mencatatkan 49 penampilan di semua kompetisi dan mencatatkan 16 cleansheet. Untuk karier di tim nasional, Ernando Ari melakoni debutnya di timnas senior pada 12 Desember 2021. Kala itu dia masih berusia 19 tahun. Dia memulai debutnya di Timnas Indonesia ketika menghadapi Laos dalam ajang Piala AFF 2020, dalam pertandingan debutnya itu Timnas Indonesia berhasil mengalahkan Laos dengan skor 5–1. Hingga kini, Ernando masih memegang 3 caps untuk Timnas Indonesia untuk level senior. Ernando Ari hingga kini juga masih aktif bermain untuk Timnas Indonesia U–23. Dia juga menjadi bagian anak asuh Shin Tae Yong dalam turnamen Piala AFF U–23 2023 dan membawa tim garuda muda menjadi runner–up Piala AFF U–23.</item>
+        <item>Pratama Arhan Alif Rifai (lahir 21 Desember 2001) adalah seorang pemain sepak bola profesional Indonesia yang bermain sebagai bek penuh untuk klub Tokyo Verdy di Klub Liga 2 Jepang dan tim nasional Indonesia. Arhan melakukan debut tim utama untuk PSIS Semarang di Piala Menpora 2021, di mana ia bermain 90 menit di semua empat pertandingan timnya di turnamen yang mendahului musim Liga 1 2021. Dia mencetak dua gol dalam kompetisi itu, salah satunya adalah tendangan bebas yang merupakan salah satu gol terbaik di turnamen tersebut. Dia juga memenangkan penghargaan Pemain Muda Terbaik turnamen itu.[4][5] Arhan melakukan debut liga pada 4 September 2021 dalam pertandingan melawan Persela Lamongan.[6] Setelah beberapa waktu yang dihabiskannya bersama PSIS Semarang, Arhan mengakhiri perjalanannya bersama tim kebesarannya itu pada pertandingan terakhirnya melawan Bali United di kompetisi Liga 1 2021–2022 dengan kekalahan tipis 0-1 di Stadion Ngurah Rai, Bali. Penampilan memukau Arhan di Kejuaraan AFF 2020 bersama timnas Indonesia dan meraih penghargaan Pemain Muda Terbaik membuat manajemen Tokyo Verdy tertarik untuk merekrutnya. Apalagi dengan klausul kontrak khusus yang diberikan PSIS Semarang untuk membebaskan biaya transfer bagi klub yang berminat yang berasal dari Thailand, Jepang, dan Daratan Eropa mempermudah Tokyo Verdy dalam hal biaya dan negosiasi. Dalam pelatihan selama dua bulan di Kroasia, Arhan tampil perdana untuk Indonesia U-19 di pertandingan persahabatan menghadapi Bulgaria U-19 pada 5 September 2020. Ia kemudian menjadi kapten tim itu saat pertandingan persahabatan selanjutnya melawan Makedonia Utara U-19, yang berakhir dengan hasil imbang. Arhan menerima panggilan untuk bergabung dengan timnas senior pada Mei 2021. Ia tampil perdana untuk Indonesia dalam pertandingan persahabatan melawan Afghanistan di Dubai pada 25 Mei 2021.[7][8] Pada 19 Desember 2021, Arhan mencetak gol pertamanya untuk Indonesia, melalui bola tendangan kaki kiri dari luar kotak penalti, di pertandingan Kejuaraan AFF 2020 melawan Malaysia.[9] Ia juga menerima penghargaan pemain terbaik di pertandingan yang berakhir dengan skor kemenangan 4–1 itu.[10] Pada 25 Desember 2021, ia mencetak gol keduanya di pertandingan kedua semifinal kejuaraan itu, melawan Singapura yang berakhir dengan skor kemenangan 4–2 setelah babak perpanjangan waktu. Arhan dikenal karena kemampuan lemparan kedalam dengan jarak jauh.[14] Biasa bermain sebagai bek kiri, ia juga bisa bermain sebagai bek sayap, bek kanan, dan gelandang.[15] Ia juga memiliki kemampuan mencetak gol melalui bola tendangan jarak jauh dari luar kotak penalti dan sejumlah media kerap memberi pujian atas kemampuan itu</item>
+        <item>Asnawi Mangkualam Bahar (lahir 4 Oktober 1999) adalah pesepakbola profesional Indonesia yang saat ini bermain untuk klub K League 2, Jeonnam Dragons dan tim nasional Indonesia. Berposisi sebagai bek kanan, ia juga bisa bermain di posisi bek sayap dan gelandang bertahan. Di musim kedua, ia bergabung dengan Persiba Balikpapan, memecahkan rekor pemain termuda yang mencetak gol di Kejuaraan Sepak Bola Indonesia A, saat berumur 17 tahun 5 hari melawan Bali United F.C. di Stadion I Wayan Dipta. Pada tahun 2017, Asnawi bergabung dengan PSM Makassar, di mana ia melakukan debutnya saat melawan Persela Lamongan pada Piala Presiden 2017. Pada tahun 2019, dinobatkan sebagai pemain terbaik Kratingdaeng Piala Indonesia sebagai pemain muda terbaik setelah membawa timnya menjuarai turnamen tersebut.[2] Meskipun umurnya masih muda, Asnawi mampu dengan cepat menjadi salah satu pemain yang paling menjanjikan dan bertalenta. Pada Januari 2021, Asnawi bergabung dengan Ansan Greeners, tim asal Korea Selatan, yang bermain di kasta ke-2 struktur liga Korea, K League 2. Asnawi mendapat rekomendasi dari pelatih kepala tim nasional, Shin Tae-yong. Shin Tae-yong mendorong Asnawi untuk keluar dari zona nyamannya di Indonesia dan mengambil kesempatan untuk bermain di liga yang lebih kuat, meskipun hal itu berarti bahwa Asnawi akan mendapat gaji yang lebih rendah dan kemungkinan akan mendapat waktu main yang lebih sedikit daripada di klub sebelumnya.[3][4][5] Sebelum debutnya bersama "Green Wolves", julukan Ansan Greeners, kepindahannya ke klub Korea Selatan tercatat sebagai sejarah baru baik untuk Asnawi maupun sepak bola Korea Selatan. Faktanya, pada tahun 2020 K League mengumumkan, pesepak bola asal ASEAN memiliki kuotanya sendiri,[6] Ansan Greeners adalah klub pertama yang memanfaatkan peraturan tersebut. Asnawi adalah pesepak bola asal Indonesia pertama yang bermain di Korea Selatan.[3] Transfer ini mendapat perhatian yang besar terutama dari komunitas orang Indonesia di Ansan dan pendukung Ansan Greeners. Pengikut akun media sosial Ansan Greeners meningkat berkali-kali lipat dalam kurun beberapa hari.[7] Asnawi melakukan debutnya bersana Ansan Greeners ketika melawan tim K4 League (liga kasta ke-4), Yangpyeong FC dalam kompetisi Korean FA Cup dengan hasil menang 1-0. Asnawi bermain untuk Ansan Greeners pertama kali di K League 2 pada 3 April 2021, bermain selama 61 menit melawan Busan IPark dengan hasil akhir imbang, 1-1.[8] Asnawi Mangkualam sudah resmi meninggalkan Ansan Greeners. Pemain 23 tahun itu resmi bergabung dengan Jeonnam Dragons. Pengumuman perekrutan Asnawi diumumkan lewat Instagram Jeonnam Dragons. Foto Asnawi diunggah dengan mengenakan jersey kuning Jeonnam Dragons sembari mengangkat syal. "Selamat datang di JDFC," kata keterangan dalam unggahan itu. Asnawi melakukan debut internasionalnya untuk tim senior pada 21 Maret 2017, melawan Myanmar, dimana dia bermain sebagai pemain pengganti.[9] Ia memecahkan rekor pemain termuda 17 tahun dan 167 hari bermain untuk Indonesia.[10] Pada November 2021, Shin Tae-yong selaku pelatih kepala Indonesia memanggil Asnawi untuk bergabung dalam pertandingan melawan Turki, Afghanistan dan Myanmar.[11] Pada Desember 2021, namanya tercatat dalam skuat untuk menjalani Kejuaraan AFF 2020 di Singapura yang diselenggarakan 2021.[12] Pada 12 Desember 2021, Asnawi mencetak gol pertamanya dalam petandingan internasional dari titik penalti melawan Laos dan juga memberikan assist kepada Irfan Jaya untuk gol Irfan yang ke-2, dengan hasil akhir kemenangan 1-5.[13] Asnawi melakukan aksi kontroversial, dimana ia meneriaki pemain Singapura, Faris Ramli, ketika Faris gagal melakukan penalti saat laga semi-final leg ke-2 ketika kondisi skor 2-2 di menit 90.[14] Pada pertandingan persahabatan melawan Argentina pada 19 Juni 2023 di Stadion Utama Gelora Bung Karno, Asnawi bermain militan dan sering melakukan tekel bersih. Salah satu pemain terkenal yang dijegal adalah pemain sayap Argentina Alejandro Garnacho</item>
+        <item>Mohammad Edo Febriansah (lahir 25 Juli 1997) adalah pemain sepak bola profesional Indonesia, berposisi sebagai bek kiri. Saat ini Dia bermain di Klub Persib Bandung. Ia resmi di kontrak Persib Bandung pada 8 Mei 2023.[1] Sebelumnya Ia bermain untuk RANS Nusantara FC pada liga 1 musim lalu dan juga anggota tim nasional Indonesia.[2] Pada 2019, Edo menandatangani kontrak setahun dengan Persik Kediri. Edo mencetak 1 gol dalam 20 pertandingan, ketika Persik bermain di Liga 2. Dia menandatangani kontrak dengan Persita Tangerang untuk bermain di Liga 1 pada musim 2020. Pada 24 September 2021, Edo mencetak gol pertamanya musim ini, mencetak gol pada menit ke-84, hasil akhir, Persita kalah 1-2 atas Bali United di 2021–22 Liga 1.[3] Pada 27 Oktober 2021, ia mencetak gol dengan hasil imbang 2–2 atas Arema.</item>
+        <item>Elkan William Tio Baggott (lahir 23 Oktober 2002) adalah seorang pemain sepak bola profesional berkewarganegaraan Indonesia yang bermain sebagai bek tengah untuk Ipswich Town di EFL Championship dan tim nasional Indonesia. Lahir di Thailand dan dibesarkan di Inggris, Baggott lebih memilih untuk mewakili negara ibunya Indonesia, tempat ia pertama kali belajar bermain sepak bola sejak kecil.[4] Baggott lahir di Bangkok, Thailand, dari seorang ibu berkebangsaan Indonesia bermarga Tio (張) dan ayah berkebangsaan Inggris, Roland Baggott. Ia menghabiskan masa kecilnya di Thailand, sebelum keluarganya pindah ke Indonesia pada tahun 2008. Selama di Indonesia, Baggot menghabiskan masa pendidikannya di British School Jakarta (sebelumnya bernama British International School of Jakarta). Dia belajar bermain sepak bola di sekolah sepak bola di Jakarta dan diangkat sebagai kapten untuk tim British International School. Ia dan keluarganya akhirnya memutuskan untuk menetap di Inggris pada tahun 2011.[2][5] Setelah bergabung dengan Ipswich Town dengan beasiswa dua tahun pada tahun 2019,[6] Baggott melakukan debut seniornya untuk klub pada 6 Oktober 2020 dengan kemenangan 2-0 atas Gillingham di Piala EFL.[7] Pada 28 Januari 2021, Baggott menandatangani kontrak profesional pertamanya dengan Ipswich, menandatangani kontrak dua setengah tahun dengan opsi perpanjangan tahun tambahan.[8] Pada 16 April 2022, dia menjadi pemain Indonesia pertama yang bermain di liga profesional di Inggris saat debutnya dengan Ipswich Town di EFL League One melawan Rotherham United.[9] Pada 16 Juni 2022, Ipswich Town resmi memperpanjang kontrak Baggott hingga 2025, dengan opsi perpanjangan tambahan selama 12 bulan.[10] Pada 22 Maret 2021, Baggott bergabung dengan tim Liga Nasional Inggris, Kings Lynn Town, dengan status pinjaman pemuda selama sisa musim 2020-21.[11][12] Pada 8 Juli 2022, Baggott resmi bergabung dengan Gillingham dengan status pinjaman dari Ipswich Town. Baggott akan bermain bersama Gillingham di EFL League Two dengan kesepakatan pinjaman selama satu musim.[13][14] Dia melakukan debut liga untuk klub pada 30 Juli 2022 dengan hasil kekalahan tandang 2-0 dari AFC Wimbledon.[15] Pada 15 Oktober 2022, Baggott mencetak gol pertamanya untuk Gillingham saat melawan Stevenage.[16] Pada Januari 2023, Baggott ditarik kembali dari masa pinjamannya di Gillingham dan bergabung dengan klub League One Cheltenham Town dengan status pinjaman hingga akhir musim.[17] Elkan telah dipanggil untuk Indonesia di Timnas U-19.[18] Dia melakukan penampilan pertamanya untuk tim U-19 pada 11 Oktober 2020 dalam pertandingan persahabatan melawan Makedonia Utara U-19.[19] Dia menerima panggilan untuk bergabung dengan tim nasional senior Indonesia pada Mei 2021, tetapi ia menolak karena adanya pembatasan perjalanan COVID-19.[20] Pada 22 Oktober 2021, Ketua PSSI, Mochamad Iriawan, menyatakan bahwa Baggott menolak bermain untuk Indonesia setelah menolak beberapa panggilan.[21] Baggott langsung mengirim surat ke PSSI menjelaskan ketidakhadirannya dan kesediaannya menerima panggilan berikutnya, mengutip fakta bahwa situasi Covid-19 di Inggris Raya dan Indonesia telah jauh lebih baik. Iriawan membuka dan menerima penjelasannya tiga hari kemudian.[22][23] Pada 16 November 2021, dia melakukan debut untuk tim nasional Indonesia senior pada pertandingan persahabatan melawan Afghanistan. Bermain selama 68 menit, kemudian digantikan oleh Victor Igbonefo karena cedera di kepala, yang mana mengakibatkan kewajiban "14 hari tanpa sepak bola" karena regulasi Asosiasi Sepak Bola Inggris selama masa pemulihan. Elkan diperbolehkan untuk bermain kembali pada 2 Desember 2021, setelah melakukan Scan MRI dan menyimpulkan tidak ada cedera yang berkelanjutan.[24] Pada 12 Desember 2021, Elkan melakukan debut bersama tim nasional Indonesia senior saat melawan Laos di Kejuaraan AFF, hasil akhir pertandingan tersebut adalah kemenangan 5–1 untuk Indonesia.[25] Pada 19 Desember 2021, dia mencetak gol pertamanya untuk Indonesia dengan menyundulkan bola untuk gol terakhir saat melawan Malaysia, hasil akhir adalah 4–1 untuk Indonesia.[26] Baggott kembali mewakili tim nasional senior di tahap akhir kualifikasi Piala Asia di Kuwait dari 8 hingga 14 Juni 2022. Baggott bermain di semua 3 pertandingan melawan Kuwait (menang 2-1), Yordania (kalah 1-0) dan Nepal (menang 7-0). Penampilan ini membantu Indonesia mengamankan kualifikasi untuk Piala Asia yang dimainkan pada musim panas 2023. Baggott mencetak gol internasional keduanya dalam kemenangan 7-0 atas Nepal.[27] Baggott masuk dalam skuat sementara Indonesia untuk Kejuaraan AFF 2022 tetapi memilih tetap bersama Gillingham selama periode padat pertandingan Desember-Januari dan dengan tim Kent terbawah League Two pada saat dia dipanggil.[28]</item>
+        <item>Jordi Amat Maas (Katalan: [ˈʒɔɾði əˈmat]; bahasa Spanyol: [ˈɟʝoɾðjaˈmat]; lahir 21 Maret 1992) adalah pesepakbola profesional yang bermain sebagai bek tengah untuk klub Liga Super Malaysia Johor Darul Ta\'zim dan Tim nasional Indonesia. Dia menghabiskan sebagian besar karirnya bersama Espanyol dan Swansea City, juga mewakili Rayo Vallecano (dua periode) dan Betis di La Liga. Amat bermain untuk Spanyol di tingkat pemuda dan Indonesia sebagai senior, melakukan debutnya untuk tim nasional Spanyol pada tahun 2022. Amat lahir di Canet de Mar, Catalunya, Spanyol. Amat memiliki darah Indonesia dari neneknya. Nenek Amat dilahirkan di Pulau Siau,[4] dan merupakan keturunan dari raja ke-14 dan 17 Kerajaan Siau, Jacob Ponto dan Manalang Doelag Kansil.[5][6] Pada tanggal 1 Juli 2022, kebangsawanan Amat resmi diakui oleh Dewan Kerajaan Kesultanan Adat Nusantara dengan memberinya gelar "Pangeran".[7] Amat resmi menyandang status WNI melalui proses naturalisasi pada 17 November 2022.[8]</item>
+        <item>Rizky Ridho Ramadhani (lahir 21 November 2001) adalah pemain sepak bola profesional Indonesia yang bermain sebagai bek tengah untuk klub Liga 1 Persija Jakarta dan tim nasional Indonesia. Sejak 2018 hingga 2019, Rizky Ridho merupakan pemain akademi Persebaya, ia tergabung dalam skuat Persebaya U-20 yang berlaga di Liga 1 U-20 2019. Alhasil, ia menjadi pemain inti dalam tim yang menjuarai ajang tersebut di bawah asuhan pelatih Uston Nawawi, Penampilan impresifnya, ia dipromosikan ke tim senior pada tahun 2020. Debutnya bersama Persebaya ia lakukan dalam pertandingan persahabatan melawan Persis Solo di Stadion Gelora Bung Tomo pada 11 Januari 2020.[2] Rizky Ridho melakukan debutnya di liga bersama Persebaya Surabaya pada 13 Maret 2020 sebagai starter dalam pertandingan melawan Persipura Jayapura pada kompetisi Liga 1 2020 yang berakhir setelah tiga pertandingan karena pandemi COVID-19.[3][4]Pada 4 September 2021, Rizky Ridho memulai pertandingannya di musim baru 2021 untuk Persebaya Surabaya saat kekalahan 3-1 atas Borneo, dia bermain sebagai starter dan bermain selama 90 menit penuh.[5] Sejak bergabung dengan klub dari 2019, ia menjadi pemain reguler tim utama untuk tim tersebut, kebanyakan bermain di posisi bek tengah, hingga akhir musim 2021-22, Rizky Ridho telah membuat 18 penampilan dan tanpa mencetak gol di liga.Menjelang musim 2022–23, Rizky Ridho dikaitkan dengan kepindahan ke beberapa Liga 1 Thailand, tapi dia akhirnya tetap tinggal di Persebaya. Meskipun demikian, Rizky Ridho menjadi pemain reguler untuk Persebaya di bawah pelatih Aji Santoso, dan melihat peningkatan penampilannya untuk tim dalam jumlah pertandingan.[6] Pada 1 Agustus 2022, Rizky Ridho mencetak gol pertamanya di liga untuk Persebaya dalam kemenangan kandang 2-0 atas Persita Tangerang, di mana dia mencetak sundulan bebas dari sepak pojok.[7]Pada 18 Januari 2023, Rizky Ridho mencetak gol dari tendangan bebas dalam kemenangan tandang 0–5 melawan Persita di Indomilk Arena.[8] Lima hari berselang, Rizky Ridho mencetak gol penyama kedudukan menjelang akhir babak pertama di menit ke-41, dan hingga akhir pertandingan, skor menjadi 2-1 untuk kemenangan Persebaya atas Bhayangkara di Stadion Gelora Joko Samudro.[9] Ridho memulai debutnya untuk tim Indonesia U-19 di Kejuaraan Remaja U-19 AFF 2019 dan menjadi kapten tim U-19 saat menghadapi Bulgaria U-19 dalam pertandingan persahabatan pada 5 September 2020. Dia menerima panggilan untuk bergabung dengan tim nasional senior Indonesia pada Mei 2021. Dia membuat caps pertamanya dalam pertandingan persahabatan melawan Oman pada 29 Mei 2021.[10][11]Ridho menjadi bek tengah termuda yang bermain di Kualifikasi Piala Dunia FIFA untuk timnas Indonesia sejak Kualifikasi Piala Dunia FIFA 1986. Dia bermain saat melawan Thailand pada 3 Juni 2021 saat berusia 19 tahun 7 bulan 10 hari.Pada 25 Maret 2023, Ridho mencetak gol pertamanya untuk Indonesia, pada saat pertandingan persahabatan melawan Burundi.[12]</item>
+        <item>Sandy Henny Walsh (lahir 14 Maret 1995) adalah pesepakbola profesional yang bermain sebagai bek kanan untuk klub Liga Pro Belgia Mechelen. Lahir di Belgia dan mantan pemain timnas muda Belanda, ia bermain untuk Tim nasional Indonesia. Walsh lahir di Belgia dari ayah keturunan Irlandia kelahiran Inggris yang berasal dari keluarga Somalia-Afrika Selatan dan seorang ibu keturunan Indonesia kelahiran Swiss yang dibesarkan di Belanda.[2][3] Oleh karena itu, dia memenuhi syarat untuk membela Belgia, Inggris, Irlandia, Swiss, Belanda, dan Indonesia.[4]Pada 17 November 2022, Walsh resmi dinaturalisasi menjadi warga negara Indonesia dan membela Timnas Indonesia.[5]</item>
+        <item>Shayne Elian Jay Pattynama (lahir 11 Agustus 1998) adalah pesepakbola profesional yang bermain untuk Tim nasional Indonesia. Meskipun pada dasarnya adalah bek kiri, ia juga bisa bermain sebagai gelandang.[1] Shayne memiliki darah keturunan Indonesia melalui ayahnya yang beretnis Maluku dari Pulau Haruku, Maluku Tengah yang lahir di Semarang, Jawa Tengah.[2][3] Pada 24 Januari 2023, Pattynama secara resmi memperoleh kewarganegaraan Indonesia.[4] Pada bulan Maret 2023, Pattynama dipanggil oleh pelatih Indonesia Shin Tae-yong untuk dua pertandingan persahabatan melawan Burundi pada tanggal 25 dan 28.[5]</item>
+        <item>Wahyu Prasetyo (lahir 21 Maret 1998), umumnya dikenal sebagai Hulk , [2] adalah pemain sepak bola profesional Indonesia yang bermain sebagai bek tengah untuk klub Liga 1 PSIS Semarang dan tim nasional Indonesia . Wahyu menandatangani kontrak dengan Persik Kendal di Liga 2 musim 2018 . Pada tahun 2019, Wahyu Prasetyo menandatangani kontrak satu tahun dengan klub Liga 2 Indonesia Cilegon United .  Pada tahun 2020, Wahyu menandatangani kontrak dengan klub Liga 1 Indonesia PSIS Semarang . Musim ini ditangguhkan pada 27 Maret 2020 karena pandemi COVID-19 . Musim terbengkalai dan dinyatakan batal pada 20 Januari 2021. Pada musim 22/23, pada 20 Agustus 2022, ia terserang Covid-19, sakit hingga 20 September 2022, absen 5 pertandingan Liga 1. Pada 27 Februari 2023, ia mengalami cedera ringan saat latihan, pulih hingga 15 Maret 2023. [3] Pada 28 Agustus 2023, Wahyu mendapat panggilan timnas Indonesia untuk laga persahabatan . [4] Ia melakukan debut internasionalnya pada 8 September 2023, melawan Turkmenistan di Stadion Gelora Bung Tomo , Surabaya . [5]</item>
+        <item>Adam Alis Setyano (lahir 19 Desember 1993) adalah seorang pemain sepak bola profesional Indonesia yang bermain sebagai gelandang di klub Liga 1, Borneo FC dan tim nasional Indonesia.[2][3] Karier Adam dimulai sejak lulus SMA. Ia sempat bermain di salah satu klub internal Persija Jakarta, sebelum pindah ke klub Divisi Tiga Liga Indonesia, Persitangsel Tangerang Selatan, pada 2012. Martapura FC lalu merekrutnya setahun kemudian, dan karier profesionalnya pun dimulai di klub Divisi Utama tersebut. Kariernya melesat berkat rekomendasi Iwan Setiawan, pelatih Pusamania Borneo F.C. saat itu yang telah melihat bakat Adam secara langsung di Divisi Utama. Klub idola Adam, Persija Jakarta, merekrutnya untuk skuat Persija di Indonesia Super League 2015.[4] Pada tahun 2015, Adam Alis bermain di East Riffa yang berlaga di Liga Utama Bahrain. Dia bermain untuk enam pertandingan dan kesulitan untuk mendapatkan waktu bermain.[5] Setelah kembali ke Indonesia, Adam Alis bergabung dengan Barito Putera pada 2016, dia bermain sebanyak 34 pertandingan dan mencetak dua gol. Ia mendapatkan kepercayaan diri untuk berkarier di sepak bola.[6] Namanya mencuat di dunia sepak bola Indonesia setelah ia bergabung dengan Arema pada 2017 dan berpartisipasi di Piala Presiden 2017,[7] yang saat itu Arema mendapatkan juara dan dirinya dinobatkan sebagai pemain terbaik pada turnamen tersebut. Performanya mengantarkan kariernya ke tim nasional. Dengan popularitasnya yang meningkat, Adam Alis bergabung dengan Sriwijaya pada Liga 1 2018.[8] Sriwijaya terlalu ambisius untuk merekrut pemain dengan gaji tinggi, yang mana hal ini mengakibatkan bencana bagi Sriwijaya sehingga mengalami masalah finansial di tengah musim dan kegagalan bayar gaji pemain. Beberapa pemain, termasuk Adam Alis, memutuskan untuk meninggalkan klub setelah beberapa bulan tidak mendapatkan gaji. Pada Juli 2018, Adam Alis bergabung dengan Bhayangkara,[9] yang berbasis di kampung halamannya, Jakarta. Dia mendapatkan waktu bermain lebih banyak daripada klub sebelumnya. Gol pertamanya dicetak di musim keduanya, saat melawan Borneo pada 22 September 2019.[10] Pada 5 April 2022, Adam Alis menandatangani kontrak bersama Arema.[11] Dia melakukan debut di liga pada 24 Juli 2022, bermain sebagai pemain pengganti pada babak kedua saat bertandang ke Stadion Segiri untuk melawan Borneo Samarinda dengan hasil akhir kekalahan untuk Arema 0–3. Adam Alis resmi berseragam Pesut Etam hingga dua tahun ke depan. Dia didatangkan ke Samarinda dengan sistem transfer. Adam Alis di datangkan saat putaran ke dua Liga 1 Indonesia 2022/2023 Lesatan karier Adam yang bisa bermain di luar negeri ketika karier profesionalnya belum juga genap berumur dua tahun memang pantas diacungi jempol. Debutnya yang manis bersama Tim nasional sepak bola U-23 Indonesia juga jadi bukti bagaimana Adam mempunyai kualitas yang tak main-main. Adam pertama kali dipanggil ke timnas pada tahun 2015 lalu, tepatnya ketika diadakan seleksi timnas U-23 untuk SEA Games 2015 dan Kualifikasi Piala Asia U-23. Ia dipanggil seleksi tahap tiga oleh pelatih timnas U-23, Aji Santoso, dan berhasil masuk dalam tim.[4] Debutnya terjadi di laga kualifikasi Piala Asia U-23 melawan Tim nasional sepak bola U-23 Timor Leste, dan Adam langsung bersinar. Satu gol dan satu assist ia catatkan, yang sontak membuat para pecinta sepak bola Indonesia membicarakannya. Namanya masuk ke daftar trending topic nasional pasca pertandingan yang berakhir dengan kemenangan 5-0 bagi Garuda Muda tersebut. Singkatnya, Adam langsung jadi bintang.[4] Adam juga bermain untuk timnas di SEA Games 2015 di Singapura, dan berhasil melaju ke semifinal sebelum takluk 5-0 dari Tim nasional sepak bola U-23 Thailand dan kembali dibantai dengan skor yang sama oleh Tim nasional sepak bola U-23 Vietnam di perebutan medali perunggu.[4]</item>
+        <item>Yakob Sayuri (lahir 22 September 1997) adalah pemain sepak bola profesional Indonesia yang saat ini bermain sebagai pemain sayap untuk PSM Makassar.[1][2] Pada Februari 2020, PSM Makassar secara resmi menggaet Sayuri dari klub lamanya.[3] Dia melakukan debut internasional untuk Indonesia U-23 pada 7 Juni 2019 melawan Thailand U-23 dan Filipina U-23 pada 9 Juni 2019 di Piala Merlion 2019.</item>
+        <item>Arkhan Fikri ( lahir 28 Desember 2004) adalah seorang pesepakbola Indonesia yang saat ini bermain untuk klub Arema di Liga 1 dan Tim nasional sepak bola Indonesia. Dia direkrut Arema untuk bermain di Liga 1 pada musim 2022–2023.[1] Arkhan mencatatkan debut timnya pada 13 Agustus 2022 sebagai pemain pengganti dalam pertandingan melawan Bali United di Stadion Kapten I Wayan Dipta, Gianyar..[2] Dia pertama kali menjadi pemain utama pada 24 Agustus 2022 saat bertanding melawan RANS Nusantara di Stadion Kanjuruhan kemudian digantikan oleh Gian Zola pada menit ke-57, pertandingan itu berakhir dengan kemenangan Arema 4−2. Pada 30 Mei 2022, Fikri menuai debut untuk tim muda Indonesia melawan skuad U-20 Venezuela di Turnamen Maurice Revello 2022 di Prancis.[3] Pada 4 Juli 2022, Fikri mencetak gol melawan Brunei U-19 dalam kemenangan 7-0 di Kejuaraan Pemuda U-19 AFF 2022.[4]</item>
+        <item>Egy Maulana Vikri (lahir 7 Juli 2000) adalah pemain sepak bola profesional berkebangsaan Indonesia[2] yang bermain untuk klub Liga 1 Dewa United dan tim nasional Indonesia. Egy merupakan anak bungsu dari tiga bersaudara kakak kandung laki-laki (lahir tahun 1993) dan adik kandung perempuan (lahir tahun 2016) dari pasangan Syafiruddin (ayah kandung) merupakan keturunan Jawa Tengah dan Aspiyah Asnawi (ibu kandung) merupakan berdarah Belanda-Italia-Batak. Egy lebih mempunyai dua orang kakak-beradik, yaitu nama Yusrizal Muzzaki dan Afifa Thahira, ia memiliki keturunan Belanda-Italia dari sang kakek-nenek. Pada 10 Desember 2023, Egy menikah dengan Adiba Khanza yang diselenggarakan di Hall F Pati Unus, Kebayoran Baru, Jakarta Selatan.[3][4] Sebelum melangsukan pernikahan, Egy dan Adiba menjalankan Taaruf selama 4 tahun.[5] Egy berasal dari keluarga pesepakbola. Ayahnya melatih di SSB Tasbi, sebuah sekolah sepak bola di Medan tempat Egy mulai bermain, sementara kakak laki-lakinya Yusrizal Muzakki telah bermain untuk tim di liga yang lebih rendah di Indonesia. Di SSB Tasbi, Egy mengikuti Grassroots Indonesian U-12 Tournament 2012. Bakat mentahnya diperhatikan oleh para pencari bakat nasional Indonesia. Pada waktu itu, Egy membantu timnya menjadi juara turnamen di turnamen tersebut dan juga menjadi pencetak gol terbanyak. Setelah menyelesaikan sekolah dasar, ia pergi ke Sekolah Khusus Olahraga, sekolah menengah negeri untuk atlet berbakat di daerah Ragunan, Jakarta Selatan atau lebih dikenal dengan nama SKO Ragunan. Pada tahun 2016, Egy menjadi bagian dari tim muda Indonesia yang menjadi juara di ajang Gothia Cup di Swedia. Dia memenangkan penghargaan pemain terbaik dari turnamen Piala Gothia 2016 setelah mengantongi total 28 gol di sepanjang turnamen.[6]Bakatnya semakin menarik perhatian media internasional ketika ia bermain untuk Indonesia U-19, tim yang mewakili Asia di ajang ternama Festival International Espoirs - Tournoi Maurice Revello atau lebih dikenal sebagai Turnamen Toulon untuk tim junior dari 29 Mei hingga 10 Juni 2017. Saat Indonesia U-19 menelan kekalahan dari seluruh pertandingan grupnya, Egy berhasil memenangkan "Jouer Revelation Trophée" yang bergengsi karena menjadi pemain pelarian di turnamen, penghargaan yang sebelumnya dimenangkan oleh pesepakbola yang kemudian menjadi bintang dunia, termasuk Cristiano Ronaldo dan Zinedine Zidane.[6][7]Dia terus bersinar hingga pada September 2017, Egy menjadi pencetak gol terbanyak di turnamen Kejuaraan Remaja U-19 AFF 2017 dengan mencetak delapan gol untuk timnas Indonesia U-19.[8]Pada akhir tahun 2017, ada perlombaan untuk menjadi tim profesional pertama yang merekrut Egy, yang menarik minat banyak tim non-Indonesia, termasuk klub Thai League 2 Chainat Hornbill yang berjanji untuk menyelenggarakan sejumlah uji coba untuk Egy dengan beberapa klub Jerman pada akhir 2018. Namun, pandangan Egy tepat di Eropa setelah keberhasilannya di turnamen remaja di Swedia dan Prancis.[9][10] Egy bermain untuk Indonesia di seluruh level junior di tim Indonesia U-14, Indonesia U-16, Indonesia U-19, dan Indonesia U-23.Dia melakukan debut dan gol pertamanya untuk Indonesia U-16 dalam pertandingan persahabatan melawan Vietnam U-17 pada bulan Desember 2014,[32] satu tahun sebelum pembekuan PSSI oleh FIFA pada tahun 2015.[32] Beberapa minggu sebelum disuspensi, Egy mencetak dua gol dalam pertandingan persahabatan melawan Jepang U-17 pada bulan April 2015.[33]Dia melakukan debut untuk tim Indonesia U-19 di Turnamen Toulon 2017 pada tanggal 31 Mei 2017 melawan Brasil U-20.[34] Penampilannya yang impresif di turnamen membuatnya mendapatkan penghargaan "Breakthrough Player of the Tournament".[35] Dia melakukan debut untuk Indonesia U-23 dalam pertandingan persahabatan melawan Suriah U-23 pada 16 November 2017 dimana dia masuk sebagai pemain pengganti.[36] Sebelum pindah ke Polandia, Egy melakukan debut untuk tim senior Indonesia pada 2 Desember 2017, juga masuk sebagai pemain pengganti dalam kemenangan telak 4–0 atas Brunei di Piala Solidaritas Dunia Tsunami Aceh 2017.[37] Penampilan keduanya untuk tim senior adalah dalam pertandingan persahabatan melawan Islandia pada 14 Januari 2018. Dia masuk sebagai pemain pengganti di babak kedua menggantikan Osvaldo Haay.[38] Di akhir karirnya di Polandia, ia menerima panggilan untuk bergabung kembali dengan tim nasional sepak bola Indonesia senior pada bulan Mei 2021. Dia mencetak gol internasional pertamanya dalam pertandingan persahabatan pada 25 Mei 2021 di Dubai melawan Afghanistan.[39][40]Egy juga merupakan bagian dari tim nasional sepak bola U-23 Indonesia yang meraih medali perak di SEA Games 2019, di mana ia mencetak 3 gol. Pada 11 Oktober 2021, ia membuat gol internasional resmi pertama melawan Tionghoa Taipei dalam pertandingan leg kedua Play-off kualifikasi Piala Asia 2023, di mana Indonesia menang 3–0 dalam pertandingan tersebut.[41] Pada 25 Desember 2021, ia melakukan debut di Kejuaraan AFF 2020 dan juga mencetak gol saat melawan Singapura di leg kedua babak semifinal dengan kemenangan 4–2 setelah babak perpanjangan waktu.[42] Dia mencetak gol lagi saat melawan Thailand di leg kedua partai final dengan hasil imbang 2-2.[43]</item>
+        <item>Marc Anthony Klok (lahir 20 April 1993) adalah seorang pemain sepak bola Indonesia-Belanda yang bermain sebagai gelandang tengah untuk klub Persib Bandung dan tim nasional Indonesia. Klok yang lahir di Belanda, telah sah menjadi warga negara Indonesia lewat naturalisasi pada November 2020.[2]Ia memulai karier sepak bola di Utrecht. Pada 2013, ia menandatangani kontrak dengan klub Liga Utama Skotlandia Ross County. Setelah satu musim di Skotlandia, Klok bergabung ke Cherno More dan bersama klub tersebut ia memenangkan satu Piala Bulgaria dan Piala Super Bulgaria. Klok pernah bermain untuk Oldham Athletic, Dundee, PSM Makassar, dan Persija Jakarta sebelum bergabung ke Persib Bandung pada Juni 2021.[3] Klok menandatangani kontrak untuk klub Skotlandia Ross County pada Juni 2013[4] dan tampil perdana dalam kekalahan kandang 1–4 dari Celtic pada 9 November. Ia diputus kontrak pada Agustus 2014 setelah hanya melakoni enam penampilan.[5] Pada 13 Oktober 2014, setelah masa percobaan yang sukses, Klok menandatangani kontrak dengan klub Bulgaria Cherno More. Ia tampil perdana dalam kekalahan 0–2 melawan Razog Ludogorets pada 25 Oktober. Pada 23 September 2015, Klok mencetak gol pertamanya dalam kemenangan tandang 7–1 atas Pirin Razlo di kompetisi Piala Bulgaria. Pada 13 Juli 2016, Klok menandatangani kontrak enam bulan awal dengan klub Liga Satu EFL Oldham Athletic.[6] Ia tampil perdana dalam pertandingan kompetitif, masuk sebagai pemain pengganti menggantikan Ollie Banks, dalam kekalahan 0–3 dari Millwall pada 6 Agustus.[7] Klok melakukan masa percobaan bersama Dundee pada Januari 2017 dan menandatangani kontrak jangka pendek pada 31 Januari.[8] Ia meninggalkan Dundee pada bulan April 2017, dengan membuat dua penampilan untuk klub tersebut.[9] Pada 2017-2019, Klok bergabung ke psm makassar dengan menandatangani kontrak berdurasi 3 tahun.[10] Setelah lima tahun bermain di Indonesia dan menjalani proses naturalisasi yang rumit, Klok mewakili negara keduanya sebagai salah satu pemain senior di tim Indonesia U-23 pada gelaran SEA Games 2021.[11] Dia bermain di seluruh pertandingan, termasuk pertandingan perebutan medali perunggu melawan Malaysia U-23 yang berakhir dengan kemenangan bagi Indonesia melalui adu penalti. Klok mencetak gol sebagai penendang terakhir sekaligus sebagai penentu.[12]Pada 1 Juni 2022, Klok mendapatkan caps senior pertamanya dalam pertandingan persahabatan melawan Bangladesh yang berakhir dengan kedudukan 0–0.[13] Dia ditunjuk sebagai kapten tim di babak kedua setelah Fachruddin Aryanto diganti di babak pertama.Pada 8 Juni 2022, Klok mencetak gol senior pertamanya dalam pertandingan Kualifikasi Piala Asia 2023 melawan Kuwait, mengonversi tendangan penalti dalam kemenangan 2-1.[14]Pada 24 September 2022, Klok mencetak gol dalam pertandingan persahabatan melawan Curaçao dalam kemenangan 3-2.</item>
+        <item>Rachmat Irianto (lahir 3 September 1999) adalah Pemain sepak bola berkebangsaan Indonesia yang bermain untuk klub Persib Bandung dan Indonesia U-19 sebagai Bek. Rian bergabung dengan Frenz United, Klub Sepak bola Malaysia dari tahun 2014 sampai 2016.[1]Tahun 2016 Ia Pindah dan bergabung dengan Klub Indonesia Muda.[1]Rian mulai bergabung dengan Klub Profesional bersama Persebaya Surabaya yang pada tahun 2017 bermain di Liga 2.Pada tahun 2022, Rian dapat dukungan dari sang Ibu yang berasal dari kota Kuningan, Jawa Barat, untuk bergabung di Persib Bandung.[2] Rian membuat debut bersama Indonesia U-13 ajang Yamaha Cup 2013, Malaysia. Timnas Indonesia saat itu tersisih di fase grup.[1]Tahun 2017, Ia di panggil bergabung bersama Indonesia U-19 di ajang Turnamen Toulon. Ia membuat debut U19 saat melawan Brasil U20 dengan hasil pertandingan kalah skor 0 - 1.Pada ajang AFF 2017, Ia di panggil kembali bergabung bersama Indonesia U-19, dan dipercayakan sebagai Kapten.Pada ajang AFF 2020, Ia di panggil kembali bergabung bersama Indonesia, dan dipercayakan oleh Pelatih Shin Tae Young sebagai Bek dan Gelandang Tengah.</item>
+        <item>Nama Ricky Kambuaya melejit setelah dirinya diberi kepercayaan oleh Shin Tae-yong membela Timnas Indonesia di gelaran Piala AFF 2020 lalu. Simak profil dan biodata Ricky Kambuaya ini.Hingga saat ini, Ricky Kambuaya menjadi salah satu pesepak bola asal Papua yang namanya kerap disebut-sebut sebagai pemain terbaik. Hanya saja, belum ada keputusan apakah Ricky Kambuaya akan kembali dipanggil Timnas untuk kompetisi selanjutnya atau tidak.Nama Ricky Kambuaya kembali viral setelah gelandang serang ini resmi dipinang salah satu klub kaya Liga 1 Indonesia, Dewa United.Dilansir dari data Transfermarkt, Ricky Kambuaya memiliki nilai transfer hingga Rp4,7 miliar. Buat kamu yang penasaran dengan profil dan biodata Ricky Kambuaya, beriku Suara.com telah merangkumnya. Meskipun berasal dari tanah Papua, namun perjalanan Ricky Kambuaya menjadi pesepak bola kenamaan Indonesia justru dimulai jauh dari kampung halamannya.Pada 2015 ia bermain untuk Pro Duta selama dua tahun sebelum bergabung dengan PS Mojokerto Putra (PSMP) di Liga 2 2017.Kemudian pada tahun 2017, Ricky Kambuaya hijrah ke Sleman dan berseragam PSS Sleman. Setahun di Jogja, Ricky memutuskan untuk hijrah ke Jawa Timur untuk membela Persebaya Surabaya.Kariernya bersama Bajul Ijo kian mentereng. Ia menjadi salah satu andalan di lini tengah Persebaya. Hanya saja, Persebaya tidak memperpanjang kontraknya yang membiarkannya pergi dengan bebas transfer.Beruntung penampilannya apik sehingga Persib Bandung meminangnya pada tahun 2022. Kemudian pada tahun 2023, Ricky Kambuaya resmi menjadi bagian dari Dewa United.Itulah profil dan biodata Ricky Kambuaya, gelandang serang terbaik Liga 1 Indonesia yang berasal dari Papua.</item>
+        <item>Saddil Ramdani (lahir 2 Januari 1999) adalah pemain sepak bola profesional Indonesia yang merupakan pemain Indonesia yang saat ini bermain untuk Sabah di Liga Super Malaysia. Ia dikenal karena kecepatan, dribbling, serta passing akurat. Saddil mendapat gelar wonderkid pada tahun 2018 terbitan majalah The Void.Sekarang dia bermain di Liga Super Malaysia klub Sabah dan tim nasional Indonesia Saddil Ramdani berasal dari Pulau Muna, sebuah pulau terpencil di Sulawesi Tenggara di timur Indonesia. Ia lahir di Raha, pelabuhan utama Muna, namun ia meninggalkan kampung halamannya setelah sekolah dasar untuk mencari cara mengembangkan hobi sepak bolanya. Pertama, dia pergi ke ibukota provinsi Kendari di mana dia berlatih di sekolah sepak bola Galasiswa. Petualangan Saddil berakhir tahun 2012 di Jawa Timur tepatnya di Malang, dimana Aji Santoso International Football Academy (ASIFA) berada. Di bawah bimbingan mantan kapten tim nasional sepak bola Indonesia Aji Santoso yang juga melatih tim nasional sepak bola U-23 Indonesia pada waktu itu, Saddil dilatih dan ditempatkan di ASIFA, yang juga mendaftarkannya ke sekolah menengah setempat yang bekerja sama dengan akademi tersebut.[2][3]Saddil berkembang menjadi pemain sayap pencetak gol di ASIFA, membuatnya dipanggil untuk memperkuat dari tim nasional muda. Di Kejuaraan Remaja U-19 AFF 2016, pada 20 September 2016 mencetak hat-trick melawan Kamboja yang memicu perlombaan di antara klub-klub profesional Indonesia untuk menjadi yang pertama menggunakan bakatnya.[4] Sebelum lulus SMA, Saddil bergabung dengan klub Jawa Timur Persela Lamongan dan bermain di Indonesia Soccer Championship A 2016. Ia mencetak gol pertamanya untuk klub profesional pada Oktober 2016 saat Persela mengalahkan Bali United 3-0. Golnya pada menit ke-90 memastikan kemenangan timnya. Persela sering memainkan pemain muda mereka di kompetisi Liga 1 musim 2017 dan 2018. Saddil selama bersekolah harus bersusah payah antara pergi ke kelas di Malang dan bermain untuk klub profesional di Lamongan, tiga jam perjalanan, sampai dia lulus pada tahun 2018.[5][6][7] Penampilannya di berbagai kompetisi remaja internasional di Asia Tenggara pada 2016–18 membuatnya menjadi salah satu talenta paling menarik di kawasan ini. Pada Januari 2019, Saddil menandatangani kontrak dengan klub Liga Super Malaysia Pahang FA. Dia membuat penampilan yang solid dari 21 penampilan dan dua gol untuk musim pertamanya di luar negeri.[8] Setelah satu tahun tampil impresif di Malaysia, dia kembali ke Indonesia. Dia akhirnya menandatangani kontrak dengan Bhayangkara F.C., klub bergaji tinggi milik Kepolisian Republik Indonesia, untuk bermain di Liga 1 musim 2020. Namun, ia hanya bisa bermain tiga pertandingan tanpa mencetak gol karena penundaan liga di tengah pandemi COVID-19.[9] Setelah kontrak satu tahun dengan Bhayangkara berakhir, Saddil memutuskan untuk bermain di Malaysia lagi. Dia menerima tawaran dari Sabah FC pelatih Kurniawan Dwi Yulianto, seorang striker legendaris Indonesia, untuk bermain di Liga Super Malaysia musim 2021. Dia melakukan debut internasional untuk tim senior Indonesia pada 21 Maret 2017, melawan Myanmar.[16]Pada tanggal 17 Agustus 2017, saat pertandingan SEA Games melawan Filipina U-23, Saddil mencetak gol pada menit ke-58 dari jarak jauh.[17]Saddil membuat gol pertamanya di tim senior saat melawan Nepal dalam kemenangan telak 7-0 di Kualifikasi Piala Asia AFC 2023 pada 14 Juni 2022.</item>
+        <item>Witan Sulaeman (lahir 8 Oktober 2001) adalah seorang pemain sepak bola profesional Indonesia yang bermain sebagai penyerang sayap untuk klub Bhayangkara FC dan tim nasional Indonesia. Witan Sulaeman beranjak dari keluarga yang sederhana dengan seorang ayah yang bekerja sebagai pedagang sayur. Witan pun awalnya belajar bermain bola secara otodidak di kampungnya. Kemudian ketika masuk jenjang sekolah menengah pertama, Witan masuk ke tempat yang lebih formal. Dia masuk ke sekolah sepak bola (SSB) Galara Utama di Palu. Bersama SSB itu, Witan bermain di beberapa kompetisi usia muda seperti Liga Pelajar di Palu dan Piala Kemenpora. Setelah lulus sekolah menengah pertama, Witan memberanikan diri merantau ke Jakarta untuk ikut seleksi di sebuah klub. Witan mengikuti seleksi dan kemudian diterima di PPLP Ragunan atau Diklat Ragunan. Tempat yang juga dikenal sebagai Sekolah Keolahragaan Ragunan itu merupakan tempat yang melahirkan salah satu legenda sepak bola Indonesia, Bambang Pamungkas. Pada 2017, ketika masih menimba ilmu di Diklat Ragunan, Witan terpantau oleh Indra Sjafri yang menjadi pelatih timnas Indonesia U-19. Dia pun membuat debut pada laga melawan timnas U-20 Brasil, 31 Mei 2017. Selain menjadi anggota timnas U-19, Witan juga menjadi anggota timnas U-16. Witan Sulaeman terjun ke sepak bola profesional pada putaran kedua musim 2019. Klub profesional pertama yang ia bela adalah PSIM Yogyakarta. PSIM mengumumkan mendapatkan Witan lewat akun resmi Instagram klub. PSIM mengindikasikan bahwa transfer ini berdurasi singkat, sebab Witan diyakini akan bermain untuk klub Eropa saat berusia 18 tahun. Witan Sulaeman bermain di Liga 2 ketika usianya 17 tahun. Bergabungnya Witan Sulaeman ke PSIM tak lain hanya karena kepentingan SEA Games 2019. Selain untuk menambah jam terbang, pemain asal Palu itu baru bisa terbang ke Eropa ketika sudah mencapai usia 18 tahun. Debutnya bersama Laskar Mataram terjadi dalam laga melawan Persiba Balikpapan, pada Kamis, 22 Agustus 2019. Setelah sempat dirumorkan bergabung dengan Lechia Gdańsk dan beberapa klub Polandia lainnya di liga Ekstraklasa dan juga beberapa klub Belgia di Liga Profesional Belgia. Pada tanggal 11 Februari 2020, Witan resmi bergabung dengan klub asal Serbia yaitu Radnik Surdulica yang bermain di Liga Super Serbia dengan kontrak jangka panjang 3,5 tahun. Kontrak ini memiliki klausul khusus yang dimana jika Witan dipanggil pemusatan latihan untuk persiapan Indonesia U-19, ia harus diizinkan pulang. Hal ini dilakukan tim nasional U-19 sebagai persiapan menghadapi Piala Dunia U-20 FIFA. Ia kemudian debut pada 14 Juni 2020, menggantikan Bogdan Stamenković di pertandingan liga melawan Radnički Niš. Pada 1 September 2021, Witan bergabung dengan klub Polandia Lechia Gdańsk dengan durasi kontrak selama 2 tahun. Witan direkrut oleh Lechia Gdańsk setelah rekan senegaranya Egy Maulana Vikri pindah ke klub Slovakia, FK Senica[pranala nonaktif permanen].[2] 3 hari kemudian, Witan membuat debutnya di Lechia Gdańsk dalam laga persahabatan melawan Jeziorak Iława sebagai pemain pengganti untuk Kacper Sezonienko[pranala nonaktif permanen] pada menit 73.[3]Witan membuat debut di IV liga Polandia[pranala nonaktif permanen] untuk Tim Muda Lechia Gdańsk II[pranala nonaktif permanen]. Dia menjadi starting eleven di pertandingan IV liga Polandia[pranala nonaktif permanen] saat melawan MKS Wladyslawowo pada 11 September, yang dimana laga tersebut dimenangkan oleh Lechia Gdańsk II.[4] Pada akhir Januari 2022, Witan memutuskan untuk menyetujui peminjamannya kepada FK Senica dari Lechia Gdansk. Keputusan itu disebabkan karena Witan jarang dipercaya untuk bermain sebagai Starting XI tim utama Lechia Gdansk.Pertimbangan FK Senica memboyong Witan dari Lechia Gdansk dikarenakan Witan menjadi salah satu pemain muda terbaik dibawah Pratama Arhan di ajang AFF 2020 di Singapore pada Desember 2021-Januari 2022[5]. Ia sukses menyumbangkan 2 gol dan menjadi penyumbang assist terbanyak yaitu 5 assist. Duetnya dengan Egy Maulana Vikri memukau banyak permerhati sepak bola kala itu. Witan SUlaeman dan Egy Maulana Vikri memang sudah menjadi pasangan duet sejak usia 16 tahun kala membela persab brebes. Timnas Indonesia pada ajang AFF 2020 menjadi tim dengan pondasi pemain paling muda. Timnas Indonesia sukses menahan imbang vietnam 0-0, mengalahkan malaysia 4-1, mengalahkan singapore 5-3[6], dan menahan imbang thailand 2-2 pada leg kedua partai final. Yang notabene tim-tim tersebut adalah tim unggulan. Timnas Indonesia berhasil keluar sebagai runner-up. Dan Witan Sulaeman menjadi salah satu pemain penting dalam skuad yang berposisi mobile, sayap kanan, sayap kiri, dan second striker[7]. Witan membuat debut Internasional bersama Indonesia U-19, 31 Mei 2017 melawan Timnas U-20 Brasil dengan hasil skor kalah 1 – 0. Ia mencetak gol pertamanya di ajang AFF U-16 2017, 13 September 2017 di menit ke 41 dan gol kedua pada menit 67 melawan Tim nasional U-19 Brunei Darussalam dengan hasil skor menang 8 – 0.[8]Debut resminya bersama Timnas senior terjadi pada laga persahabatan internasional FIFA antara Indonesia vs Oman di Stadion The Seven\'s, Dubai, Uni Emirat Arab, 29 Mei 2021. Witan masuk sebagai pemain pengganti menggantikan kapten timnas Indonesia Evan Dimas Darmono pada menit ke 68. Dengan hasil akhir skor kalah 1-3.[9]</item>
+        <item>Marselino Ferdinan Philipus (lahir 9 September 2004) adalah pemain sepak bola profesional asal Indonesia yang bermain sebagai gelandang serang untuk tim Divisi Pertama B Belgia Deinze dan tim nasional Indonesia.[3]Marselino mengawali karier profesionalnya bersama Persebaya Surabaya pada tahun 2021. Dia adalah salah satu jebolan kompetisi internal Persebaya, kompetisi yang juga diikuti Rizky Ridho, dan rutin berkompetisi secara internal.[4] Di tahun pertamanya, dia mendapatkan penghargaan pemain muda terbaik dan masuk dalam 60 talenta muda dan menjanjikan buatan The Guardian.[5] Marselino bergabung dengan Persebaya untuk bermain di Liga 1 musim musim 2021-2022. Dia melakukan debut pada 11 September 2021 dalam pertandingan melawan Persikabo.[6] Pada 6 November 2021, dia mencetak gol pertamanya pada pertandingan menghadapi Arema, yang berakhir imbang, 2-2.[7] Dia dikenal sebagai pemain yang lincah dan mampu mencetak gol dari luar kotak penalti.[8] Pada 1 Februari 2023, Marselino resmi bergabung dengan klub Challenger Pro League, K.M.S.K. Deinze dengan durasi kontrak satu setengah tahun.[9] Marselino melakoni laga debutnya bersama Deinze saat melawan Jong Genk pada tanggal 25 Februari, dimana ia masuk pada menit ke-80 menggantikan Jellert van Landschoot.[10] Marselino melakukan debut bersama tim nasional Indonesia U-17 saat laga melawan Vietnam pada Kejuaraan Remaja U-16 AFF.[11] Gol pertamanya dicetak pada pertandingan tersebut dengan hasil akhir kemenangan Indonesia, 2–0.[12]Pada Oktober 2021, Marselino dipanggil untuk bergabung tim nasional Indonesia U-23 pada pertandingan persahabatan melawan Tajikistan dan Nepal dan juga untuk persiapan jelang Kualifikasi Kejuaraan U-23 AFC 2022 di Tajikistan.[13] Pada 26 Oktober 2021, Marselino melakukan debut di tim nasional U-23, masuk sebagai pemain pengganti di pertandingan yang berakhir dengan kekalahan 2–3 melawan Australia pada kualifikasi Kejuaraan U-23 AFC 2022.[14]Pada Januari 2022, Marselino dipanggil untuk bergabung dengan tim nasional Indonesia senior untuk pertandingan persahabatan di Bali oleh Shin Tae-yong.[15] Dia melakukan debutnya pada 27 Januari 2022 dalam pertandingan melawan Timor Leste dengan hasil akhir kemenangan 4–1.[16]Marselino dipanggil untuk memperkuat Indonesia U-20 saat Kualifikasi Piala Asia U-20 AFC 2023.[17] Pada 16 September 2022, dia mencetak 2 gol ke gawang Hong Kong U-20, mengubah skor menjadi 4–1 dan 5–1.[18] Marselino dipanggil untuk turnamen Kejuaraan AFF pertamanya oleh Shin Tae-yong.[19] dia mencetak gol saat melawan Filipina di babak penyisihan grup Kejuaraan AFF 2022, Tak hanya itu, gol tersebut menjadi viral di media sosial dan menarik perhatian pemain Brasil, Richarlison karena selebrasi golnya yang mirip.[20] Dia juga dianugerahi penghargaan "Pemain Muda Terbaik Turnamen"..[21]</item>
+        <item>Dendy Sulistyawan (lahir 12 Oktober 1996) adalah seorang pemain sepak bola profesional asal Indonesia yang bermain sebagai penyerang untuk Bhayangkara FC di Liga 1 dan tim nasional Indonesia. Namanya mulai menanjak kala dia mendapatkan kepercayaan dari Pelatih Persela Lamongan untuk tampil dalam turnamen Piala Presiden 2015 yang tergabung di grup B (bermain di Malang). Telah dipercaya pelatih menjadikan Dendy penyerang yang akan haus akan gol, memang dalam statistik yang dia miliki saat masih bermain di turnamen kodim, dia selalu mencetak gol disetiap laga.[4] Dendy tergabung dalam skuat untuk ajang Indonesia Soccer Championship A 2016. Dendy membuat debutnya saat melawan Gresik United pada pekan pertama.Pada pekan kedelapan melawan PS Barito Putera, Gol Dendy yang lolos dari jebakan offside. Dengan tenang, Dendy menceploskan bola ke gawang Aditya Harlan. Skor 2-0 untuk keunggulan tuan rumah bertahan hingga babak pertama usai. Namun, Dendi kembali menambah gol Persela pada menit 75.[5] Dendy tampil perdana untuk tim nasional senior Indonesia pada pertandingan persahabatan melawan Curaçao, 24 September 2022. Ia mencetak gol perdana untuk Indonesia pada kemenangan 2–1 atas Curaçao, 27 September 2022.[6] </item>
+        <item>Muhammad Dimas Drajad (lahir 30 Maret 1997) adalah pemain sepak bola profesional Indonesia yang berposisi sebagai penyerang untuk klub Liga 1 Persikabo 1973 dan tim nasional Indonesia. Ia juga seorang anggota TNI dan berpangkat Sersan Dua.[2] Dia memiliki adik bungsu yang juga pesepakbola, yaitu Ahmad Wahyudi.[3] Dimas memulai karir pertamanya di timnas saat dilatih oleh Indra Sjafri, kemudian, Indonesia menjadi juara di Kejuaraan Remaja U-19 AFF 2013.[4] Pada tahun 2014, Dimas mewakili Indonesia U-19, di Kejuaraan U-19 AFC 2014.[5]Pada 1 Juni 2022, Dimas mendapatkan caps senior pertamanya dalam pertandingan persahabatan melawan Bangladesh yang berakhir 0–0.[6] Pada 14 Juni 2022, Dimas mencetak gol internasional pertamanya untuk Indonesia, dalam kemenangan 7–0 melawan Nepal di babak ketiga kualifikasi Piala Asia 2023.[7]Pada 24 September 2022, Dimas mencetak gol internasional keduanya dalam pertandingan persahabatan melawan Curaçao yang berakhir dengan kemenangan 3–2. Dimas kembali mencetak sebuah gol melawan Curaçao dengan kemenangan 2-1 pada 27 September 2022.</item>
+        <item>Hokky Caraka Bintang Brilliant (lahir 21 Agustus 2004) adalah pemain sepakbola profesional Indonesia yang bermain sebagai Penyerang tengah untuk klub Liga 1 PSS Sleman pada musim 2022-2023 dan tim nasional U-20 Indonesia asuhan Shin Tae-yong. Ia direkrut PSS Sleman untuk bermain di Liga 1 pada musim 2021-2022. Hokky melakukan debut liga profesionalnya pada 25 September 2021 dalam pertandingan melawan Madura United pada pekan ke-4 di Stadion Gelora Bung Karno Madya, Jakarta.[3] Pada musim 2021-2022 ia telah mencatat 3 kali tampil di Liga 1. Musim 2022-2023 ia baru tampil sekali di Liga 1. Pada 30 Mei 2022, Hokky Caraka melakukan debut untuk tim muda Indonesia (Tim nasional U-20 Indonesia) melawan skuad U-20 Venezuela di Turnamen Maurice Revello 2022 di Prancis.[4]Pada 4 Juli 2022, Hokky Caraka mencetak quattrick (4 gol dalam 1 pertandingan) melawan Brunei U-19 dalam kemenangan 7-0 di Kejuaraan Remaja U-19 AFF 2022.[5Pada 14 September 2022, Hokky Caraka mencetak hattrick (3 gol dalam 1 pertandingan) melawan Timor Leste U-20, dalam kemenangan 4-0 di kualifikasi Piala Asia AFC U-20 2023.</item>
+        <item>Rafael William Struick (lahir 27 Maret 2003) adalah pemain sepak bola profesional yang bermain sebagai penyerang untuk klub Eerste Divisie ADO Den Haag. Lahir di Belanda, ia bermain untuk tim nasional Indonesia. Struick pada awalnya bermain di RKAVV dan kemudian di Forum Sport, sebelum bergabung dengan akademi ADO Den Haag.[3] Dia melakukan debutnya di Eerste Divisie pada 6 Mei 2022 saat melawan FC Emmen.[4][5] Setelah itu, pada Juni 2022, dia menandatangani kontrak profesional pertamanya dengan ADO Den Haag.[6] Pada 19 November 2022, Rafael tampil bersama timnas Indonesia U-20, dan mencetak gol saat melawan Slowakia U-20 dengan berakhir kekalahan 1–2.[7] Hal ini dimungkinkan karena dia adalah keturunan Indonesia.[8] Pelatih kepala timnas Indonesia Shin Tae-yong menunjuk Rafael, Ivar Jenner, dan Justin Hubner sebagai pemain berbasis asing jelang Indonesia menjadi tuan rumah Piala Dunia U-20 FIFA 2023.[9]Pada 27 Mei 2023, Rafael menerima panggilan untuk bergabung ke tim senior untuk pertandingan persahabatan melawan Palestina dan Argentina.[10] Rafael melakukan debutnya pada 14 Juni 2023, saat melawan Palestina dengan hasil akhir imbang 0-0.[11] Pada 22 Mei 2023, Struick secara resmi memperoleh kewarganegaraan Indonesia.[12]</item>
+        <item>Muhammad Ramadhan Sananta (lahir 27 November 2002) adalah pemain sepak bola profesional Indonesia yang berposisi sebagai penyerang untuk klub Liga 1 Persis Solo dan tim nasional Indonesia. Dia dikontrak Persikabo 1973 untuk bermain di Liga 1 pada musim 2021.[2] Sananta melakukan debut di liga pada 3 Februari 2022 dalam pertandingan melawan Bali United di Stadion Ngurah Rai, Denpasar.[3] Sananta dikontrak PSM Makassar untuk bermain di Liga 1 pada musim 2022–23.[4] Dia melakukan debut liga pada 15 Agustus 2022 dalam pertandingan melawan RANS Nusantara di Stadion Pakansari, Cibinong, Bogor.[5] Pada 29 Agustus 2022, Sananta mencetak gol pertamanya liga untuk PSM Makassar dengan mencetak dua gol dalam kemenangan 5-1 atas Persib Bandung di Parepare.[6] Pada musim 2023–2024, Sananta resmi bergabung dengan Persis Solo. Dia Mendapatkan kontrak berdurasi dua musim hingga 2025.[7] Pada 24 September 2022, Ramadhan membuat penampilan pertamanya untuk tim nasional Indonesia dalam pertandingan persahabatan melawan Curaçao.[8]Tiga hari kemudian, ia kembali tampil di laga kedua melawan Curaçao yang berakhir dengan kemenangan 2–1. </item>
+    </string-array>
+
+
+    <integer-array name="data_photo">
+        <!--   official     -->
+        <item>@drawable/shintaeyong</item>
+        <item>@drawable/nova</item>
+        <item>@drawable/jeje</item>
+
+        <!--   penjaga gawang     -->
+        <item>@drawable/nadeo</item>
+        <item>@drawable/riyandi</item>
+        <item>@drawable/ernando</item>
+
+        <!--   pemain_belakang     -->
+        <item>@drawable/arhan</item>
+        <item>@drawable/asnawi</item>
+        <item>@drawable/edo_febriansyah</item>
+        <item>@drawable/elkan_baggot</item>
+        <item>@drawable/jordi_amat</item>
+        <item>@drawable/rizky_ridho</item>
+        <item>@drawable/sandy_walsh</item>
+        <item>@drawable/shayne</item>
+        <item>@drawable/wahyu_prasetyo</item>
+
+        <!--   pemain tengah     -->
+        <item>@drawable/adam_alis</item>
+        <item>@drawable/yakob</item>
+        <item>@drawable/arkhan_fikri</item>
+        <item>@drawable/egy</item>
+        <item>@drawable/marc_klok</item>
+        <item>@drawable/rachmat_irianto</item>
+        <item>@drawable/ricky_kambuaya</item>
+        <item>@drawable/saddil3</item>
+        <item>@drawable/witan</item>
+        <item>@drawable/marselino</item>
+
+        <!--   pemain depan     -->
+        <item>@drawable/dendy</item>
+        <item>@drawable/dimas_drajad</item>
+        <item>@drawable/hokky</item>
+        <item>@drawable/rafael_struick</item>
+        <item>@drawable/sananta2</item>
+    </integer-array>
+
+
+<!--  TODO:  terpaksa ditulis satu" karna gabisa dipaksa menggunakan android:text di activity_detail     -->
+    <string-array name="data_fullname">
+        <!--   official     -->
+        <item>Nama Lengkap :    Shin Tae-Yong</item>
+        <item>Nama Lengkap :    Nova Arianto Sartono</item>
+        <item>Nama Lengkap :    Seo Jeong-Seok</item>
+
+        <!--   penjaga gawang     -->
+        <item>Nama Lengkap :    Nadeo Arga Winata</item>
+        <item>Nama Lengkap :    Muhammad Riyandi</item>
+        <item>Nama Lengkap :    Ernando Ari Sutaryadi</item>
+
+        <!--   pemain_belakang     -->
+        <item>Nama Lengkap :    Pratama Arhan Alif Rifai</item>
+        <item>Nama Lengkap :    Asnawi Mangkualam Bahar</item>
+        <item>Nama Lengkap :    Mohammad Edo Febriansyah</item>
+        <item>Nama Lengkap :    Elkan William Tio Baggott</item>
+        <item>Nama Lengkap :    Jordi Amat Maas</item>
+        <item>Nama Lengkap :    Rizky Ridho Ramadhani</item>
+        <item>Nama Lengkap :    Sandy Henny Walsh</item>
+        <item>Nama Lengkap :    Shayne Elian Jay Pattynama</item>
+        <item>Nama Lengkap :    Wahyu Prasetyo</item>
+
+        <!--   pemain tengah     -->
+        <item>Nama Lengkap :    Adam Alis Setyano</item>
+        <item>Nama Lengkap :    Yakob Sayuri</item>
+        <item>Nama Lengkap :    Arkhan Fikri</item>
+        <item>Nama Lengkap :    Egy Maulana Vikri</item>
+        <item>Nama Lengkap :    Marc Anthony Klok</item>
+        <item>Nama Lengkap :    Rachmat Irianto</item>
+        <item>Nama Lengkap :    Ricky Richardo Kambuaya</item>
+        <item>Nama Lengkap :    Saddil Ramdani</item>
+        <item>Nama Lengkap :    Witan Sulaeman</item>
+        <item>Nama Lengkap :    Marselino Ferdinan Philipus</item>
+
+        <!--   pemain depan     -->
+        <item>Nama Lengkap :    Dendy Sulistyawan</item>
+        <item>Nama Lengkap :    Muhammad Dimas Drajad</item>
+        <item>Nama Lengkap :    Hokky Caraka Bintang Briliant</item>
+        <item>Nama Lengkap :    Rafael William Struick</item>
+        <item>Nama Lengkap :    Muhammad Ramadhan Sananta</item>
+    </string-array>
+
+
+    <string-array name="data_borndate">
+        <!--   official     -->
+        <item>Tanggal Lahir :   11 April 1970</item>
+        <item>Tanggal Lahir :   04 November 1978</item>
+        <item>Tanggal Lahir :   01 Mei 1993</item>
+
+        <!--   penjaga gawang     -->
+        <item>Tanggal Lahir :   09 Maret 1997</item>
+        <item>Tanggal Lahir :   03 Januari 2000</item>
+        <item>Tanggal Lahir :   27 Februari 2002</item>
+
+        <!--   pemain_belakang     -->
+        <item>Tanggal Lahir :   21 Desember 2001</item>
+        <item>Tanggal Lahir :   04 Oktober 1999</item>
+        <item>Tanggal Lahir :   25 Juli 1997</item>
+        <item>Tanggal Lahir :   23 Oktober 2002</item>
+        <item>Tanggal Lahir :   21 Maret 1992</item>
+        <item>Tanggal Lahir :   21 November 2001</item>
+        <item>Tanggal Lahir :   14 Maret  1995</item>
+        <item>Tanggal Lahir :   11 Agustus 1998</item>
+        <item>Tanggal Lahir :   21 Maret 1998</item>
+
+        <!--   pemain tengah     -->
+        <item>Tanggal Lahir :   19 Desember 1993</item>
+        <item>Tanggal Lahir :   22 September 1997</item>
+        <item>Tanggal Lahir :   28 Desember 2004</item>
+        <item>Tanggal Lahir :   07 Juli 2000</item>
+        <item>Tanggal Lahir :   20 April 1993</item>
+        <item>Tanggal Lahir :   03 September 1999</item>
+        <item>Tanggal Lahir :   05 Mei 1996</item>
+        <item>Tanggal Lahir :   02 Januari 1999</item>
+        <item>Tanggal Lahir :   08 Oktober 2001</item>
+        <item>Tanggal Lahir :   09 September 2004</item>
+
+        <!--   pemain depan     -->
+        <item>Tanggal Lahir :   12 Otober 1996</item>
+        <item>Tanggal Lahir :   30 Maret 1997</item>
+        <item>Tanggal Lahir :   21 Agustus 2004</item>
+        <item>Tanggal Lahir :   27 Maret 2003</item>
+        <item>Tanggal Lahir :   27 November 2002</item>
+    </string-array>
+
+
+    <string-array name="data_bornplace">
+        <!--   official     -->
+        <item>Tempat Lahir     :  Yeongdeok, Korea Selatan</item>
+        <item>Tempat Lahir     :  Semarang, Jawa Tengah</item>
+        <item>Tempat Lahir     :  Korea Selatan</item>
+
+        <!--   penjaga gawang     -->
+        <item>Tempat Lahir     :  Kediri, Jawa Timur</item>
+        <item>Tempat Lahir     :  Bogor, Jawa Barat</item>
+        <item>Tempat Lahir     :  Semarang, Indonesia</item>
+
+        <!--   pemain_belakang     -->
+        <item>Tempat Lahir     :  Blora, Jawa Tengah</item>
+        <item>Tempat Lahir     :  Makassar, Sulawesi Selatan</item>
+        <item>Tempat Lahir     :  Kediri, Jawa Timur</item>
+        <item>Tempat Lahir     :  Bangkok, Thailand</item>
+        <item>Tempat Lahir     :  Barcelona, Spanyol</item>
+        <item>Tempat Lahir     :  Surabaya, Jawa Timur</item>
+        <item>Tempat Lahir     :  Brussel, Belgia</item>
+        <item>Tempat Lahir     :  Lelystad, Belanda</item>
+        <item>Tempat Lahir     :  Batang, Jawa Tengah</item>
+
+        <!--   pemain tengah     -->
+        <item>Tempat Lahir     :  Jakarta, Indonesia</item>
+        <item>Tempat Lahir     :  Kepulauan Yapen, Papua</item>
+        <item>Tempat Lahir     :  Serdang Bedagai, Sumatera Utara</item>
+        <item>Tempat Lahir     :  Medan, Sumatera Utara</item>
+        <item>Tempat Lahir     :  Amsterdam, Belanda</item>
+        <item>Tempat Lahir     :  Surabaya, Jawa Timur</item>
+        <item>Tempat Lahir     :  Sorong, Papua</item>
+        <item>Tempat Lahir     :  Raha, Sulawesi Tenggara</item>
+        <item>Tempat Lahir     :  Palu, Sulawesi  Tengah</item>
+        <item>Tempat Lahir     :  Jakarta, Indonesia</item>
+
+        <!--   pemain depan     -->
+        <item>Tempat Lahir     :  Lamongan, Jawa Timur</item>
+        <item>Tempat Lahir     :  Gresik, Jawa Timur</item>
+        <item>Tempat Lahir     :  Gunung Kidul, Yogyakarta</item>
+        <item>Tempat Lahir     :  Leidschendam, Belanda</item>
+        <item>Tempat Lahir     :  Daik, Kepulauan Riau</item>
+    </string-array>
+
+
+    <string-array name="data_heightweight">
+        <!--   official     -->
+        <item>Tinggi / Berat:  174cm / 70kg</item>
+        <item>Tinggi / Berat:  -</item>
+        <item>Tinggi / Berat:  -</item>
+
+        <!--   penjaga gawang     -->
+        <item>Tinggi / Berat:  187cm / 70kg</item>
+        <item>Tinggi / Berat:  186cm / 75kg</item>
+        <item>Tinggi / Berat:  180cm / 79kg</item>
+
+        <!--   pemain_belakang     -->
+        <item>Tinggi / Berat:  172cm / 62kg</item>
+        <item>Tinggi / Berat:  174cm / 66kg</item>
+        <item>Tinggi / Berat:  173cm / 65kg</item>
+        <item>Tinggi / Berat:  196cm / 78kg</item>
+        <item>Tinggi / Berat:  185cm / 85kg</item>
+        <item>Tinggi / Berat:  183cm / 70kg</item>
+        <item>Tinggi / Berat:  185cm / 74kg</item>
+        <item>Tinggi / Berat:  186cm / 70kg</item>
+        <item>Tinggi / Berat:  180cm / 80kg</item>
+
+        <!--   pemain tengah     -->
+        <item>Tinggi / Berat:  172cm / 68kg</item>
+        <item>Tinggi / Berat:  168cm / 50kg</item>
+        <item>Tinggi / Berat:  165cm / 61kg</item>
+        <item>Tinggi / Berat:  170cm / 67kg</item>
+        <item>Tinggi / Berat:  177cm / 70kg</item>
+        <item>Tinggi / Berat:  175cm / 69kg</item>
+        <item>Tinggi / Berat:  177cm / 72kg</item>
+        <item>Tinggi / Berat:  172cm / 67kg</item>
+        <item>Tinggi / Berat:  170cm / 65kg</item>
+        <item>Tinggi / Berat:  176cm / 61kg</item>
+
+        <!--   pemain depan     -->
+        <item>Tinggi / Berat:  177cm / 68kg</item>
+        <item>Tinggi / Berat:  178cm / 68kg</item>
+        <item>Tinggi / Berat:  186cm / 70kg</item>
+        <item>Tinggi / Berat:  187cm / 70kg</item>
+        <item>Tinggi / Berat:  182cm / 70kg</item>
+    </string-array>
+
+
+    <string-array name="data_nowclub">
+        <!--   official     -->
+        <item>Klub                  :  -</item>
+        <item>Klub                  :  -</item>
+        <item>Klub                  :  -</item>
+
+        <!--   penjaga gawang     -->
+        <item>Klub                  :  Borneo FC</item>
+        <item>Klub                  :  Persis Solo</item>
+        <item>Klub                  :  Persebaya Surabaya</item>
+
+        <!--   pemain_belakang     -->
+        <item>Klub                  :  Tokyo Verdy</item>
+        <item>Klub                  :  Jeonnam Dragons</item>
+        <item>Klub                  :  Persib Bandung</item>
+        <item>Klub                  :  Ipswich Town</item>
+        <item>Klub                  :  Johor Darul Ta\'zim</item>
+        <item>Klub                  :  Persija Jakarta</item>
+        <item>Klub                  :  KV Mechelen</item>
+        <item>Klub                  :  Viking FK</item>
+        <item>Klub                  :  PSIS Semarang</item>
+
+        <!--   pemain tengah     -->
+        <item>Klub                  :  Borneo FC</item>
+        <item>Klub                  :  PSM Makassar</item>
+        <item>Klub                  :  Arema FC</item>
+        <item>Klub                  :  Dewa United</item>
+        <item>Klub                  :  Persib Bandung</item>
+        <item>Klub                  :  Persib Bandung</item>
+        <item>Klub                  :  Dewa United</item>
+        <item>Klub                  :  Sabah FC</item>
+        <item>Klub                  :  Bhayangkara Presisi FC (on loan)</item>
+        <item>Klub                  :  KMSK Deinze</item>
+
+        <!--   pemain depan     -->
+        <item>Klub                  :  Bhayangkara Presisi FC</item>
+        <item>Klub                  :  Persikabo 1973</item>
+        <item>Klub                  :  PSS Sleman</item>
+        <item>Klub                  :  ADO Den Haag</item>
+        <item>Klub                  :  Persis Solo</item>
+    </string-array>
+
+
+    <string-array name="data_position">
+        <!--   official     -->
+        <item>Posisi            :  Pelatih</item>
+        <item>Posisi            :  Asisten Pelatih</item>
+        <item>Posisi            :  Penerjemah</item>
+
+        <!--   penjaga gawang     -->
+        <item>Posisi            :  Penjaga Gawang</item>
+        <item>Posisi            :  Penjaga Gawang</item>
+        <item>Posisi            :  Penjaga Gawang</item>
+
+        <!--   pemain_belakang     -->
+        <item>Posisi            :  Pemain Belakang</item>
+        <item>Posisi            :  Pemain Belakang</item>
+        <item>Posisi            :  Pemain Belakang</item>
+        <item>Posisi            :  Pemain Belakang</item>
+        <item>Posisi            :  Pemain Belakang</item>
+        <item>Posisi            :  Pemain Belakang</item>
+        <item>Posisi            :  Pemain Belakang</item>
+        <item>Posisi            :  Pemain Belakang</item>
+        <item>Posisi            :  Pemain Belakang</item>
+
+        <!--   pemain tengah     -->
+        <item>Posisi            :  Pemain Tengah</item>
+        <item>Posisi            :  Pemain Tengah</item>
+        <item>Posisi            :  Pemain Tengah</item>
+        <item>Posisi            :  Pemain Tengah</item>
+        <item>Posisi            :  Pemain Tengah</item>
+        <item>Posisi            :  Pemain Tengah</item>
+        <item>Posisi            :  Pemain Tengah</item>
+        <item>Posisi            :  Pemain Tengah</item>
+        <item>Posisi            :  Pemain Tengah</item>
+        <item>Posisi            :  Pemain Tengah</item>
+
+        <!--   pemain depan     -->
+        <item>Posisi            :  Pemain Depan</item>
+        <item>Posisi            :  Pemain Depan</item>
+        <item>Posisi            :  Pemain Depan</item>
+        <item>Posisi            :  Pemain Depan</item>
+        <item>Posisi            :  Pemain Depan</item>
+    </string-array>
+</resources>
